@@ -1,0 +1,36 @@
+﻿@page
+@model _10379457_CLDV6211_POE.Pages.OrderHistoryModel
+@{
+    ViewData["Title"] = "Order History";
+}
+
+<h2>Order History</h2>
+
+@if (Model.Orders.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Order ID</th>
+                <th>Total Cost</th>
+                <th>Date of Purchase</th>
+                <th>Location</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model.Orders)
+            {
+                <tr>
+                    <td>@order.OrderID</td>
+                    <td>@order.TotalCost.ToString("C")</td>
+                    <td>@order.DateOfPurchase.ToShortDateString()</td>
+                    <td>@order.Location</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No orders found.</p>
+}

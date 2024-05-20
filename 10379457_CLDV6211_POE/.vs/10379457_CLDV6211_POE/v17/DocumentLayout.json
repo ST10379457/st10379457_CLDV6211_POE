@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\orderhistory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\orderhistory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\supplierregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\supplierregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\userlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\userlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\supplierlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\supplierlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\userregister.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\userregister.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\userregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\userregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\supplierregister.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\supplierregister.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\supplierlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\supplierlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|c:\\users\\eyb7f\\source\\repos\\10379457_cldv6211_poe\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752FED9C-36EA-4ED8-B79C-39CF00BDD7C6}|10379457_CLDV6211_POE.csproj|solutionrelative:pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SupplierRegister.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\SupplierRegister.cshtml",
+              "RelativeDocumentMoniker": "Pages\\SupplierRegister.cshtml",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\SupplierRegister.cshtml",
+              "RelativeToolTip": "Pages\\SupplierRegister.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T19:11:55.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAB8AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:47:36.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T16:52:16.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\ContactUs.cshtml",
+              "RelativeToolTip": "Pages\\ContactUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:59:24.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\OrderHistory.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OrderHistory.cshtml",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\OrderHistory.cshtml",
+              "RelativeToolTip": "Pages\\OrderHistory.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T19:32:52.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderHistory.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\OrderHistory.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderHistory.cshtml.cs",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\OrderHistory.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderHistory.cshtml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:33:09.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\UserLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\UserLogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\UserLogin.cshtml.cs",
+              "RelativeToolTip": "Pages\\UserLogin.cshtml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:13:07.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\UserLogin.cshtml",
+              "RelativeDocumentMoniker": "Pages\\UserLogin.cshtml",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\UserLogin.cshtml",
+              "RelativeToolTip": "Pages\\UserLogin.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:05:07.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\Product.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Product.cshtml",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\Product.cshtml",
+              "RelativeToolTip": "Pages\\Product.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:26:47.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\Product.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Product.cshtml.cs",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\Product.cshtml.cs",
+              "RelativeToolTip": "Pages\\Product.cshtml.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAADwv48AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:29:16.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SupplierLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\SupplierLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\SupplierLogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\SupplierLogin.cshtml.cs",
+              "RelativeToolTip": "Pages\\SupplierLogin.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:53:19.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SupplierRegister.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\SupplierRegister.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\SupplierRegister.cshtml.cs",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\SupplierRegister.cshtml.cs",
+              "RelativeToolTip": "Pages\\SupplierRegister.cshtml.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:12:03.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRegister.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\UserRegister.cshtml",
+              "RelativeDocumentMoniker": "Pages\\UserRegister.cshtml",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\UserRegister.cshtml",
+              "RelativeToolTip": "Pages\\UserRegister.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T18:35:04.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRegister.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\UserRegister.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\UserRegister.cshtml.cs",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\UserRegister.cshtml.cs",
+              "RelativeToolTip": "Pages\\UserRegister.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:35:11.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SupplierLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\SupplierLogin.cshtml",
+              "RelativeDocumentMoniker": "Pages\\SupplierLogin.cshtml",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\SupplierLogin.cshtml",
+              "RelativeToolTip": "Pages\\SupplierLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T18:51:20.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:46:33.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\eyb7f\\source\\repos\\10379457_CLDV6211_POE\\Pages\\AboutUs.cshtml",
+              "RelativeToolTip": "Pages\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:03:28.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
